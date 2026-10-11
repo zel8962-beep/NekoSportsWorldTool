@@ -1,4 +1,4 @@
-<h1 style="font-size: 48px;">别倒卖了😭</h1>
+<h1 style="font-size: 48px;"></h1>
 
 # NekoSportsWorldTool
 
